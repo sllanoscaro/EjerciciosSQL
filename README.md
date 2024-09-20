@@ -16,6 +16,6 @@ A continuación se presenta el diagrama ER del caso.
 
 ## Diagrama ER
 
-![Screenshot](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Screenshot](https://github.com/sllanoscaro/EjerciciosSQL/blob/master/Modelo%20ER.jpeg?raw=true)
 
 
