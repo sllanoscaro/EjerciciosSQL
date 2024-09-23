@@ -19,6 +19,8 @@ Por último, a los estudiantes que imparten las tutorías se les realiza un pago
 ## Actividades
 A continuación realiza los siguientes ejercicios considerando el caso anterior.
 
+Adicionalmente, puedes revisar este link para que te apoyes a la hora de realizar algunos querys SQL básicos: 
+https://dbshostedfiles.s3.us-west-2.amazonaws.com/dbs/sql_cheat_sheet_mysql.pdf 
 ### Actividad 1
 Crea la base de datos 'PAAU' y selecciónala para ejecutar queries SQL.
 
